@@ -159,7 +159,7 @@
     ],
     "figure": "",
     "correct_letter": "B",
-    "explanation": "Just as it is prohibited to transmit a message that obscures your meaning, it is also prohibited to willfully or maliciously obscure someone else's transmissions. Malicious behavior is never accepted in amateur radio."
+    "explanation": "There are very few differences in rules between voice, CW, and digital modes, and third party traffic is not prohibited on digital modes. Although it is unlikely, there would be little reason to prohibit international communications on VHF and higher frequencies. Therefore, there is only one option left, and this should be a clear answer. You should NEVER willfully or maliciously interfer with other communications."
   },
   {
     "id": "T1B01",
@@ -307,7 +307,8 @@
       "On any band if the power is limited to 25 watts"
     ],
     "figure": "",
-    "correct_letter": "C"
+    "correct_letter": "C",
+    "explanation": "Although FM (Frequency Modulation) is more widely used on 2 meters, SSB (Single Sideband) is also allowed. In fact, SSB is allowed in some portion of every band above 6 meters."
   },
   {
     "id": "T1B11",
@@ -1446,7 +1447,8 @@
       "Yes, but only in situations involving the immediate safety of human life or protection of property"
     ],
     "figure": "",
-    "correct_letter": "D"
+    "correct_letter": "D",
+    "explanation": "You are not allowed to operate outside of your license privileges under normal circumstances. However, if it is an emergency involving immediate safety of human life or protection of property, you are permitted to operate outside of your privileges."
   },
   {
     "id": "T2C10",
@@ -1754,7 +1756,8 @@
       "All these choices are correct"
     ],
     "figure": "",
-    "correct_letter": "A"
+    "correct_letter": "A",
+    "explanation": "Unlike unlicensed radio such as FRS which use channel numbers, amateur radio bands are typically referred to by their approximate wavelength in meters.  There are many different bands, such as 2-meters, which includes 146.52, the national VHF calling frequency. There are also many other bands, such as 80-meters and 40-meters. You can calculate the approximate wavelength by using the formula Wavelength (in meters) = 300 / frequency (in MHz)."
   },
   {
     "id": "T3B08",
@@ -1768,7 +1771,8 @@
       "300 MHz to 3000 MHz"
     ],
     "figure": "",
-    "correct_letter": "B"
+    "correct_letter": "B",
+    "explanation": "VHF, or Very High Frequency, is just above HF (High Frequency), which ends at 30 MHz. VHF starts at 30 MHz and ends at 300 MHz, where UHF starts. Most handheld radios typically operate on VHF or UHF bands."
   },
   {
     "id": "T3B09",
@@ -1782,7 +1786,8 @@
       "300 to 3000 MHz"
     ],
     "figure": "",
-    "correct_letter": "D"
+    "correct_letter": "D",
+    "explanation": "UHF, or Ultra High Frequency, is just above VHF (Very High Frequency), which ends at 300 MHz. UHF starts at 300 MHz and ends at 3000 MHz. Most handheld radios typically operate on VHF or UHF bands."
   },
   {
     "id": "T3B10",
@@ -1796,7 +1801,8 @@
       "300 to 3000 kHz"
     ],
     "figure": "",
-    "correct_letter": "C"
+    "correct_letter": "C",
+    "explanation": "HF, or High Frequency, is just above MF (Medium Frequency), which ends at 3 MHz. HF starts at 3 MHz and ends at 30 MHz. HF frequencies can commonly propagate around the world, so you can talk to hams in other countries."
   },
   {
     "id": "T3B11",
@@ -1838,7 +1844,8 @@
       "UHF signals are absorbed by the ionospheric D region"
     ],
     "figure": "",
-    "correct_letter": "C"
+    "correct_letter": "C",
+    "explanation": "Unlike HF, which is commonly propagated across the world, UHF is not likely to propagate at all, though it can happen. This is called Tropospheric Ducting, and typically occurs during warm, high pressure weather, sometimes making it so signals can be heard up to 800 miles away, unlike the typical 30-40 miles."
   },
   {
     "id": "T3C02",
@@ -2146,7 +2153,8 @@
       "An interlock to prevent unauthorized use of a radio"
     ],
     "figure": "",
-    "correct_letter": "C"
+    "correct_letter": "C",
+    "explanation": "An electronic keyer is a device that sends Morse code. Typically there are two paddles on the device, one that sends dahs and one that sends dits. Holding one of the paddles will \"queue\" the dits or dahs so that it will wait until it is time to send it, then send with perfect timing."
   },
   {
     "id": "T4B01",
@@ -5716,7 +5724,8 @@
       "The percentage of time that a transmitter is not transmitting"
     ],
     "figure": "",
-    "correct_letter": "C"
+    "correct_letter": "C",
+    "explanation": "Duty cycle is the fraction of the amount of time a transmitter is transmitting, also known as the amount of time the transmitter is transmitting divided by the total time period, which can be seconds, minutes, hours, days or really anything else. To put it simply, duty cycle is how much time a transmitter is transmitting over a defined period."
   },
   {
     "id": "T0C12",
@@ -5730,7 +5739,8 @@
       "RF radiation is perfectly safe"
     ],
     "figure": "",
-    "correct_letter": "A"
+    "correct_letter": "A",
+    "explanation": "While RF radiation can heat body tissue to high temperatures, it does not have enough energy to damage cells or DNA. This is called non-ionizing radiation, and is not typically harmful to humans, though too much exposure to lots of RF energy can cause skin burns and possibly heat exhaustion."
   },
   {
     "id": "T0C13",
@@ -5744,6 +5754,7 @@
       "The local zoning board"
     ],
     "figure": "",
-    "correct_letter": "B"
+    "correct_letter": "B",
+    "explanation": "The FCC or local zoning board are not responsible for what you do with your equipment, and a person standing near an antenna might not even know it is transmitting. Therefore, the station licensee is responsible for ensuring no one is exposed to too much RF energy."
   }
 ]
