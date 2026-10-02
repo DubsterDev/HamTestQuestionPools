@@ -9,6 +9,8 @@ This repo contains the question pools for Ham Test. It's based off of [Russ Olse
 I'm trying to get explanations for *all* of the questions in the pools. These should be **original** 
 and not be copied from another site like HamStudy, as those are not licensed for open source use. Instead, they should be your original work.
 
+Visit https://hamtest.web.app/explanations/ to help out and contribute explanations. 
+
 ### Corrections
 
 Corrections to the question pools **should not be made here**, unless it doesn't match the NCVEC pool. In the case of incorrect data, feel free to create an issue or pull request here or [upstream](https://github.com/russolsen/ham_radio_question_pool).
