@@ -26,7 +26,7 @@
     ],
     "figure": "",
     "correct_letter": "C",
-    "explanation":  "The Federal Communications Commission, commonly known as the FCC, was placed in charge of radio and telecommunications by the United States Congress in 1934, when it replaced the Federal Radio Commission."
+    "explanation": "The Federal Communications Commission, commonly known as the FCC, was placed in charge of radio and telecommunications by the United States Congress in 1934, when it replaced the Federal Radio Commission."
   },
   {
     "id": "T1A03",
@@ -645,7 +645,8 @@
       "When transmitting signals to control model craft"
     ],
     "figure": "",
-    "correct_letter": "D"
+    "correct_letter": "D",
+    "explanation": "This is the only exception to the rules requiring you to transmit your call sign every ten minutes, as doing so may interfere with the model aircraft, though the station identification must be posted at the transmitting location."
   },
   {
     "id": "T1D12",
@@ -659,7 +660,8 @@
       "All these choices are correct"
     ],
     "figure": "",
-    "correct_letter": "A"
+    "correct_letter": "A",
+    "explanation": "There are very few exceptions to the rules requiring you to identify on the air, and tests are not one of them.  However, there are some exceptions such as when controlling model aircraft."
   },
   {
     "id": "T1E01",
@@ -743,7 +745,8 @@
       "When using a club station whose trustee holds an Amateur Extra Class license"
     ],
     "figure": "",
-    "correct_letter": "A"
+    "correct_letter": "A",
+    "explanation": "The control operator of a station can only operate using their own privileges, unless it is an emergency, of course. Club call signs have no privileges at all, so even if the trustee holds an Extra class call sign, it doesn't apply to the club call sign, and even if you are doing a contest, you can only use your own privileges."
   },
   {
     "id": "T1E07",
@@ -1178,7 +1181,7 @@
     ],
     "figure": "",
     "correct_letter": "D",
-    "explanation":  "Repeaters transmit on one frequency, and listen on another. The difference between these frequencies is the offset. Unless you have your radio set up for the repeater, you'll likely won't have an offset configured.\n\nSome newer radios automatically set the offset, but they won't know what the tone is that needs to be transmitted. You'll have to look it up on something like Repeaterbook to find out what your local repeater's tone is."
+    "explanation": "Repeaters transmit on one frequency, and listen on another. The difference between these frequencies is the offset. Unless you have your radio set up for the repeater, you'll likely won't have an offset configured.\n\nSome newer radios automatically set the offset, but they won't know what the tone is that needs to be transmitted. You'll have to look it up on something like Repeaterbook to find out what your local repeater's tone is."
   },
   {
     "id": "T2B05",
